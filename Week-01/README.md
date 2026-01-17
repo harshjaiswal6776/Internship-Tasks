@@ -1,9 +1,14 @@
-## Week 01 – Internship Tasks
+## Week 01 – Introduction to Cybersecurity
 
-This week focused on understanding basic concepts and completing
-introductory internship tasks assigned during the training period.
+### Topics Covered
+- Basics of Cybersecurity
+- CIA Triad (Confidentiality, Integrity, Availability)
+- Types of Cyber Attacks
+- Ethical Hacking Overview
 
-### Work Done
-- Studied fundamental concepts
-- Completed assigned practice tasks
-- Documented learning outcomes
+### Tools Used
+- Linux (Basic Commands)
+- Networking Fundamentals
+
+### Learning Outcome
+Developed a foundational understanding of cybersecurity concepts and security principles.
