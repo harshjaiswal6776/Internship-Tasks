@@ -1,10 +1,13 @@
-## Week 02 – Practical Exercises
+## Week 02 – Networking and Linux Fundamentals
 
-This week involved working on practical exercises related to core concepts.
-The tasks helped me apply theoretical knowledge and improve accuracy
-through hands-on practice.
+### Topics Covered
+- TCP/IP, Ports, Protocols
+- Linux commands
+- Network scanning basics
 
-### Key Learning
-- Practical implementation of concepts
-- Logical thinking improvement
-- Attention to detail
+### Tools Used
+- Linux terminal
+- Nmap (basic)
+
+### Outcome
+Understood how networks operate and how attackers identify services.
