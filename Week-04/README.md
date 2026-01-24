@@ -1,10 +1,19 @@
-## Week 04 – Concept Application
+## Week 04 – Introduction to HackerOne CTF Challenges
 
-This week emphasized applying learned concepts to solve structured tasks.
-I focused on understanding the logic behind each problem and documenting
-solutions clearly.
+### Activities
+- Solved beginner-level Capture The Flag (CTF) challenges
+- Identified common vulnerabilities such as:
+  - Information Disclosure
+  - Misconfiguration
+  - Basic Authentication Issues
 
-### Key Learning
-- Concept application
-- Clear documentation
-- Improving solution clarity
+### Tools Used
+- Web Browser
+- Burp Suite
+- Manual Testing Techniques
+
+### Notes
+- Flags obtained during challenges have been intentionally redacted.
+
+### Learning Outcome
+Improved analytical thinking and learned how vulnerabilities are identified in real-world scenarios.
