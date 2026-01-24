@@ -1,4 +1,4 @@
-## Week 07 – Security Tool & Practical Application
+## Week 07 and 08 – Security Tool & Practical Application
 
 ### Project
 - Security Testing & Automation Exercises
