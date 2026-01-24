@@ -1,10 +1,14 @@
-## Week 03 – Intermediate Problem Solving
+## Week 03 – Web Application Security Basics
 
-During this week, I worked on intermediate-level tasks that required deeper
-analysis and problem-solving skills. The focus was on understanding logic
-and applying correct solutions.
+### Topics Covered
+- HTTP & HTTPS
+- Cookies and Sessions
+- OWASP Top 10 Overview
+- Web Application Architecture
 
-### Key Learning
-- Analytical problem solving
-- Breaking problems into steps
-- Efficient solution approach
+### Tools Used
+- Browser Developer Tools
+- Burp Suite (Introduction)
+
+### Learning Outcome
+Understood how web applications function and how common vulnerabilities arise.
