@@ -1,9 +1,14 @@
-## Week 06 – Optimization & Improvements
+## Week 06 – Penetration Testing Fundamentals
 
-This week focused on reviewing completed tasks and improving solution
-approaches. I worked on identifying better methods and improving efficiency.
+### Activities
+- Network Scanning
+- Service Enumeration
+- Vulnerability Identification (Lab Environment)
 
-### Key Learning
-- Solution optimization
-- Reviewing and refining work
-- Logical efficiency
+### Tools Used
+- Nmap
+- Linux
+- Metasploit (Introductory)
+
+### Learning Outcome
+Learned structured penetration testing methodology in a controlled environment.
