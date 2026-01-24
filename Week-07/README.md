@@ -1,10 +1,13 @@
-## Week 07 – Final Tasks & Learning Summary
+## Week 07 – Security Tool & Practical Application
 
-The final week involved completing concluding tasks and summarizing the
-overall learning from the internship. I reviewed my progress and gained
-clarity on applying these skills in real-world scenarios.
+### Project
+- Security Testing & Automation Exercises
+- Exposure to security tools and reporting
 
-### Key Learning
-- Overall concept revision
-- Self-evaluation
-- Internship learning summary
+### Tools & Technologies
+- Linux
+- Python (Basic scripting)
+- Security Utilities
+
+### Learning Outcome
+Understood how automation and tools assist in real-world security assessments.
