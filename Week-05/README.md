@@ -1,10 +1,19 @@
-## Week 05 – Advanced Practice Tasks
+## Week 05 – Advanced HackerOne CTF & Bug Bounty Simulation
 
-In this week, I handled more challenging tasks that required accuracy,
-consistency, and careful analysis. These tasks helped strengthen my
-problem-solving confidence.
+### Activities
+- Solved advanced CTF challenges
+- Practiced identifying:
+  - Cross-Site Scripting (XSS)
+  - Logic Flaws
+  - Source Code Disclosure
 
-### Key Learning
-- Handling complex tasks
-- Accuracy and consistency
-- Time management
+### Tools Used
+- Burp Suite
+- Browser-based Exploitation
+- Manual Payload Testing
+
+### Notes
+- Sensitive challenge data and flags are redacted for security reasons.
+
+### Learning Outcome
+Developed a bug bounty mindset and improved exploitation and reporting skills.
